@@ -1,0 +1,1 @@
+使用select正确处理EOF的str_cli函数
