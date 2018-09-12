@@ -1,0 +1,1 @@
+使用gethostbyname和getservbyname的时间获取客户程序
